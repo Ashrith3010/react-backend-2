@@ -634,8 +634,10 @@ app.get('/api/ngos', authenticateToken, async (req, res) => {
         message: 'Server error'
       });
     }
+    
   });
- 
+
+
 // Helper functions
 async function readJsonFile(filePath) {
     const data = await fs.readFile(filePath, 'utf-8');

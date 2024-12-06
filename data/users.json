@@ -2,101 +2,85 @@
   "users": [
     {
       "id": "1",
-      "username": "testdonor",
-      "password": "password123",
-      "email": "donor@example.com",
-      "type": "donor",
-      "phone": "1234567890",
-      "createdAt": "2024-01-01T00:00:00.000Z"
+      "username": "Manu",
+      "password": "123",
+      "email": "nagashrith02@gmail.com",
+      "phone": "7995404090",
+      "type": "ngo",
+      "createdAt": "2024-11-06T04:59:33.719Z",
+      "organization": "Manu Old age home",
+      "area": "Hyderabad"
     },
     {
       "id": "2",
-      "username": "testngo",
-      "password": "password123",
-      "email": "ngo@example.com",
+      "username": "Dp",
+      "password": "123",
+      "email": "ashrith6974@gmail.com",
+      "phone": "7780704690",
       "type": "ngo",
-      "phone": "9876543210",
-      "area": "downtown",
-      "organization": "Food Bank",
-      "createdAt": "2024-01-01T00:00:00.000Z"
+      "createdAt": "2024-11-06T05:00:43.091Z",
+      "organization": "Dp Orphanage",
+      "area": "Hyderabad"
     },
     {
       "id": "3",
-      "username": "poojitha",
-      "password": "123456",
-      "email": "nagashrith02@gmail.com",
-      "type": "donor",
-      "phone": "1234567890",
-      "createdAt": "2024-10-23T06:06:02.022Z"
-    },
-    {
-      "id": "4",
       "username": "liki",
       "password": "123",
       "email": "badisalikithasri@gmail.com",
-      "type": "donor",
       "phone": "7396225303",
-      "createdAt": "2024-10-24T10:03:03.042Z"
+      "type": "donor",
+      "createdAt": "2024-11-06T05:01:01.564Z"
+    },
+    {
+      "id": "4",
+      "username": "Adi Waskas",
+      "password": "123456",
+      "email": "adiwaskas@gmail.com",
+      "phone": "7778889991",
+      "type": "ngo",
+      "createdAt": "2024-11-06T05:03:14.360Z",
+      "organization": "ADIWASI VIKAS SHODH SANSTHAN BANSWARA",
+      "area": "Jaipur"
     },
     {
       "id": "5",
-      "username": "ASH",
-      "password": "123",
-      "email": "ashrith6974@gmail.com",
+      "username": "Noahs Ark",
+      "password": "123456",
+      "email": "noahsark24@gmail.com",
+      "phone": "6783451127",
       "type": "ngo",
-      "phone": "7995404090",
-      "createdAt": "2024-10-25T06:18:34.324Z",
-      "organization": "pK",
-      "area": "SDF"
+      "createdAt": "2024-11-06T05:04:52.579Z",
+      "organization": "Noahs Ark",
+      "area": "Kolkata"
     },
     {
       "id": "6",
-      "username": "shinde",
-      "password": "shinde@123",
-      "email": "shinde@gmail.com",
-      "type": "donor",
-      "phone": "9177860496",
-      "createdAt": "2024-11-04T06:32:06.137Z"
+      "username": "Marpu Foundation ",
+      "password": "123456",
+      "email": "Marpufoundation@gmail.com",
+      "phone": "7867856784",
+      "type": "ngo",
+      "createdAt": "2024-11-06T05:06:12.103Z",
+      "organization": "Marpu Foundation (NGO)",
+      "area": "Chennai"
     },
     {
       "id": "7",
-      "username": "s",
-      "password": "123",
-      "email": "nagashrith3010@gmail.com",
-      "type": "ngo",
-      "phone": "9177860496",
-      "createdAt": "2024-11-04T09:11:16.117Z",
-      "organization": "s welfare",
-      "area": "Hyderabad"
+      "username": "asdasas",
+      "password": "asdasd",
+      "email": "asd@gmail.com",
+      "phone": "1234567890",
+      "type": "donor",
+      "createdAt": "2024-11-06T05:52:52.899Z"
     },
     {
       "id": "8",
-      "username": "dp",
+      "username": "praneeth",
       "password": "123",
       "email": "shindepraneeth@gmail.com",
-      "type": "ngo",
-      "phone": "9177860496",
-      "createdAt": "2024-11-05T11:12:33.957Z",
-      "organization": "dp old age home",
-      "area": "Hyderabad"
-    },
-    {
-      "id": "9",
-      "username": "adarsh",
-      "password": "123",
-      "email": "adarsh06@gmail.com",
+      "phone": "0987654321",
       "type": "donor",
-      "phone": "8123456123",
-      "createdAt": "2024-11-05T11:16:35.596Z"
-    },
-    {
-      "id": "10",
-      "username": "ash3010",
-      "password": "123",
-      "email": "nagashrith3010@gmail.com",
-      "type": "donor",
-      "phone": "7995404090",
-      "createdAt": "2024-11-05T11:22:47.322Z"
+      "createdAt": "2024-11-06T10:26:41.898Z"
     }
   ]
 }
